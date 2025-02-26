@@ -1,12 +1,4 @@
 # 🖋️ Hey! I'm FurkancanYılmaz.
-<p align="right">
-  <img src="giphy.gif" width="25%">
-</p>
-<p align="right">
-  <img src="giphysecond.gif" width="20%">
-</p>
-
-
 - 👑 I’m currently working with **C# .NET and anything related with JavaScript**.
 - 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
 - 📡 Connect with me:
@@ -14,6 +6,9 @@
  - 💼 Experience:
  - <img src="agito-logo-1-1.png" width="35"> Software development (intern)
  - <img src="csa_logo.png" width="35"> Business Analyst, Software development (intern)
+<p align="right">
+  <img src="giphy.gif" width="25%">
+</p>
 
    
 
@@ -25,6 +20,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<p align="right">
+  <img src="giphysecond.gif" width="20%">
+</p>
 
 - 🛠 Tools:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
