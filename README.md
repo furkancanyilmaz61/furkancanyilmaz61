@@ -5,8 +5,8 @@
 - 📡 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninprofilin)
  - 💼 Experience:
- - <img src="agito-logo-1-1.png" width="50">
- -<img src="csa_logo.png" width="50">
+ - <img src="agito-logo-1-1.png" width="35"> Software development (intern)
+ - <img src="csa_logo.png" width="35"> Business Analyst, Software development (intern)
 
    
 
@@ -28,6 +28,6 @@
 <p align="right">
   <img src="giphy.gif" width="25%">
 </p>
-<p align="right">
+<p align="middle">
   <img src="giphysecond.gif" width="25%">
 </p>
