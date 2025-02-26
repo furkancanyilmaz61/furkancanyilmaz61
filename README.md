@@ -31,9 +31,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<p align="right">
-  <img src="giphy.gif" width="25%">
-</p>
-<p align="right">
-  <img src="giphysecond.gif" width="20%">
-</p>
