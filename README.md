@@ -4,14 +4,15 @@
 - 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
 
 <p align="right">
-  <img src="giphy.gif" width="35%">
+  <img src="giphy.gif" width="25%">
 </p>
+<p align="center">
+  <img src="giphysecond.gif" width="25%">
+</p>
+
 
 ## 📡 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninprofilin)
-<p align="right">
-  <img src="giphysecond.gif" width="35%">
-</p>
 
 
 ## 🚀 Technologies:
@@ -24,7 +25,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-
-<p align="right">
-  <img src="giphysecond.gif" width="35%">
-</p>
