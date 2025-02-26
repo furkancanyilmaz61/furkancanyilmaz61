@@ -1,4 +1,11 @@
 # 🖋️ Hey! I'm FurkancanYılmaz.
+<p align="right">
+  <img src="giphy.gif" width="25%">
+</p>
+<p align="right">
+  <img src="giphysecond.gif" width="20%">
+</p>
+
 
 - 👑 I’m currently working with **C# .NET and anything related with JavaScript**.
 - 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
@@ -28,6 +35,6 @@
 <p align="right">
   <img src="giphy.gif" width="25%">
 </p>
-<p align="top-middle">
+<p align="right">
   <img src="giphysecond.gif" width="20%">
 </p>
