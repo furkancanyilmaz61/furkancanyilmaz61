@@ -2,9 +2,12 @@
 # 🖋️ Hey! I'm FurkancanYilmaz.
 
 - 👑 I’m currently working with C# .NET and anything related with JavaScript**.
-- 📬 How to reach me [furkancaanyilmaz@gmail.com](furkancaanyilmaz@gmail.com
+- 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
+
 ## 📡 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/furkancan-y%C4%B1lmaz-2bb6882b5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-profilin)
+
+
 
 ## 🚀 Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
