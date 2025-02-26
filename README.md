@@ -7,7 +7,7 @@
   <img src="giphy.gif" width="25%">
 </p>
 <p align="right">
-  <img src="giphysecond.gif" width="15%">
+  <img src="giphysecond.gif" width="25%">
 
 
 </p>
