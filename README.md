@@ -1,7 +1,7 @@
 
 # 🖋️ Hey! I'm FurkancanYilmaz.
 
-- 👑 I’m currently working with C# .NET and anything related with JavaScript**.
+- 👑 I’m currently working with C# .NET and anything related with JavaScript.
 - 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
 
 ## 📡 Connect with me:
@@ -19,5 +19,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎬 Fun GIFs:
-![Code](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)
-![Codev2](https://giphy.com/gifs/AllianceDAO-coding-alliance-dao-f4ztZcdm9Fi90vL4Zd)
+![Code GIF](images/giphy_main.gif)
+![Code GIF 2](images/giphy1.gif)
+
