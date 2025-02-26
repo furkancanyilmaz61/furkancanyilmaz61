@@ -9,6 +9,9 @@
 <p align="right">
   <img src="giphy.gif" width="25%">
 </p>
+<p align="right">
+  <img src="giphysecond.gif" width="25%">
+</p>
 
    
 
@@ -21,9 +24,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="right">
-  <img src="giphysecond.gif" width="20%">
-</p>
 
 - 🛠 Tools:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
