@@ -19,7 +19,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎬 Fun GIFs:
-![Code GIF](giphysecond.gif)
-![Code GIF 2](giphy1.gif)
+![Code GIF](giphy.gif)
+![Code GIF 2](giphysecond.gif)
 
 
