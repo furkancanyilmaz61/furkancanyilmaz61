@@ -6,7 +6,7 @@
 <p align="right">
   <img src="giphy.gif" width="25%">
 </p>
-<p align="right">
+<p align="center">
   <img src="giphysecond.gif" width="25%">
 
 
