@@ -6,15 +6,7 @@
  - 💼 Experience:
  - <img src="agito-logo-1-1.png" width="35"> Software development (intern)
  - <img src="csa_logo.png" width="35"> Business Analyst, Software development (intern)
-<p align="right">
-  <img src="giphy.gif" width="25%">
-</p>
-<p align="right">
-  <img src="giphysecond.gif" width="25%">
-</p>
-
-   
-
+ - 
 - 🚀 Technologies:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,3 +23,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<p align="right">
+  <img src="giphy.gif" width="25%">
+</p>
+<p align="top">
+  <img src="giphysecond.gif" width="25%">
+</p>
