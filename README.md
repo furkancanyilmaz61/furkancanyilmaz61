@@ -20,6 +20,7 @@
 
 ## 🎬 Fun GIFs:
 ![Code GIF](giphy.gif)
-![Code GIF 2](giphysecond.gif)
+![GIF](giphysecond.gif)
+
 
 
