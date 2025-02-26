@@ -1,13 +1,14 @@
+# 🖋️ Hey! I'm FurkancanYılmaz.
 
-# 🖋️ Hey! I'm FurkancanYilmaz.
-
-- 👑 I’m currently working with C# .NET and anything related with JavaScript.
+- 👑 I’m currently working with **C# .NET and anything related with JavaScript**.
 - 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
 
+<p align="right">
+  <img src="giphy.gif" width="30%">
+</p>
+
 ## 📡 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-profilin)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninprofilin)
 
 ## 🚀 Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,12 +20,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🎬 Fun GIFs:
-<p align="center">
-  <img src="giphy.gif" width="40%" />
+
+<p align="right">
+  <img src="giphysecond.gif" width="30%">
 </p>
-
-<p align="center">
-  <img src="giphysecond.gif" width="40%" />
-</p>
-
-
