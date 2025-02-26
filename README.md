@@ -6,8 +6,8 @@
 <p align="right">
   <img src="giphy.gif" width="25%">
 </p>
-<p align="top-center">
-  <img src="giphysecond.gif" width="25%">
+<p align="right">
+  <img src="giphysecond.gif" width="15% style=" margin-right: 15px;">
 </p>
 
 
