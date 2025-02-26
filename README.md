@@ -9,6 +9,10 @@
 
 ## 📡 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninprofilin)
+<p align="right">
+  <img src="giphysecond.gif" width="35%">
+</p>
+
 
 ## 🚀 Technologies:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +23,7 @@
 ## 🛠 Tools:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎬 Fun GIFs:
+
 
 <p align="right">
   <img src="giphysecond.gif" width="35%">
