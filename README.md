@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey! I'm Furkancan Yılmaz</h1>
+![Header](github-header-image.png)
 
 <p align="center">
   <em>Junior Developer passionate about backend development, data-driven solutions, and clean code practices.</em><br>
