@@ -14,10 +14,9 @@
 
 ---
 
-### 💼 Experience
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Agito_logo.png" width="35" /> **Agito Software & Consulting** – Software Development Intern  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Carrefour_logo.svg/320px-Carrefour_logo.svg.png" width="35" /> **CarrefourSA** – Business Analyst & Software Development Intern  
+  ### 💼 Experience:
+ - <img src="agito-logo-1-1.png" width="35"> Software development (intern)
+ - <img src="csa_logo.png" width="35"> Business Analyst, Software development (intern)
 
 ---
 
@@ -58,6 +57,6 @@
 ### 🎨 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="giphy.gif" width="35%">
+  <img src="giphysecond.gif" width="30%">
 </p>
