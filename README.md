@@ -4,7 +4,9 @@
   <em>Junior Developer passionate about backend development, data-driven solutions, and clean code practices.</em><br>
   <strong>Currently working with C# / .NET and exploring modern JavaScript technologies.</strong>
 </p>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=furkancanyilmaz61.furkancanyilmaz61&"  />
+</div>
 ---
 
 ### 📬 Contact
