@@ -1,5 +1,4 @@
-![Header](github-header-image.png)
-
+![Header](https://github.com/user-attachments/assets/68833802-6129-4f04-b03b-e80bc1455b4b)
 <p align="center">
   <em>Junior Developer passionate about backend development, data-driven solutions, and clean code practices.</em><br>
   <strong>Currently working with C# / .NET and exploring modern JavaScript technologies.</strong>
