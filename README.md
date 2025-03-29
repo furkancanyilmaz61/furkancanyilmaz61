@@ -1,27 +1,63 @@
-# 🖋️ Hey! I'm FurkancanYılmaz.
-- 👑 I’m currently working with **C# .NET and anything related with JavaScript**.
-- 📬 How to reach me: [furkancaanyilmaz@gmail.com](mailto:furkancaanyilmaz@gmail.com)
-- 📡 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seninprofilin)
-  ## 💼 Experience:
- - <img src="agito-logo-1-1.png" width="35"> Software development (intern)
- - <img src="csa_logo.png" width="35"> Business Analyst, Software development (intern)
-   
-  ## 🚀 Technologies:
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<h1 align="center">🚀 Hey! I'm Furkancan Yılmaz</h1>
 
-## 🛠 Tools:
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <p align="center">
-  <img src="giphy.gif" width="35%">
-  <img src="giphysecond.gif" width="30%">
+  <em>Junior Developer passionate about backend development, data-driven solutions, and clean code practices.</em><br>
+  <strong>Currently working with C# / .NET and exploring modern JavaScript technologies.</strong>
+</p>
+
+---
+
+### 📬 Contact
+
+- 📧 [furkancanyilmaz@gmail.com](mailto:furkancanyilmaz@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/furkancan-y%C4%B1lmaz-2bb6882b5)
+
+---
+
+### 💼 Experience
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Agito_logo.png" width="35" /> **Agito Software & Consulting** – Software Development Intern  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Carrefour_logo.svg/320px-Carrefour_logo.svg.png" width="35" /> **CarrefourSA** – Business Analyst & Software Development Intern  
+
+---
+
+### 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkancanyilmaz61&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkancanyilmaz61&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+### 🚀 Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
+---
+
+### 🧰 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 </p>
